@@ -8,7 +8,7 @@ I used the `Weather API` to bring the data in. I used `Axios` for API requests i
 ### `Live Project`
 
  [Click to go to live project
-](https://react-weatherapp-burak.herokuapp.com/) 
+](http://react-weatherapp-burak.herokuapp.com/) 
 
 
 ### `Screenshots`
