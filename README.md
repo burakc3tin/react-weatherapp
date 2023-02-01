@@ -15,7 +15,7 @@ I used the `Weather API` to bring the data in. I used `Axios` for API requests i
 
 <img src="https://i.hizliresim.com/lnw3uf3.png" width=60% height=60%>
 <img src="https://i.hizliresim.com/s5eebwd.png" width=60% height=60%>
-<img src="https://i.hizliresim.com/6jyzonz.png" width=60% height=60%>
+<img src="https://i.hizliresim.com/6jyzonz.png" width=50% height=50%>
 
  
 
