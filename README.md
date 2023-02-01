@@ -13,11 +13,11 @@ I used the `Weather API` to bring the data in. I used `Axios` for API requests i
 
 ### `Screenshots`
 
-![alt text](https://i.hizliresim.com/lnw3uf3.png)
+<img src="https://i.hizliresim.com/lnw3uf3.png" width=60% height=60%>
+<img src="https://i.hizliresim.com/s5eebwd.png" width=60% height=60%>
+<img src="https://i.hizliresim.com/6jyzonz.png" width=60% height=60%>
 
-![alt text](https://i.hizliresim.com/s5eebwd.png)
-
-![alt text](https://i.hizliresim.com/6jyzonz.png)
+ 
 
 
 
